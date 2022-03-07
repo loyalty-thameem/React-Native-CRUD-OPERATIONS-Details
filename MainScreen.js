@@ -7,7 +7,7 @@ import {
   SafeAreaView,
   Alert,
 } from 'react-native';
-// dummyData
+// dummyData 
 let Customer = [
   { id: 0, name: 'Customer 1', salary: '199' },
   { id: 1, name: 'Customer 2', salary: '299' },
